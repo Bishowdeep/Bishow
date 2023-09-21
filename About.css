@@ -16,6 +16,13 @@
 }
 
 @media (max-width: 1080px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-1 .u-text-1 {
     margin-left: 0;
     margin-right: 0;
@@ -43,7 +50,14 @@
   text-shadow: 0px 0px 0px rgba(0,0,0,0);
 }
 
-@media (max-width: 1080pxpx) {
+@media (max-width: 1080px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-2 .u-text-1 {
     --animation-custom_in-translate_x: -300px;
     --animation-custom_in-translate_y: 0px;
@@ -58,12 +72,26 @@
 }
 
 @media (max-width: 991px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-2 .u-text-1 {
     margin: 29px -69px 29px -20px;
   }
 }
 
 @media (max-width: 767px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-2 .u-text-1 {
     margin-left: 0;
     margin-right: 0;
@@ -72,6 +100,13 @@
 }
 
 @media (max-width: 575px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-2 .u-text-1 {
     font-size: 1.875rem;
   }
@@ -155,6 +190,13 @@
 }
 
 @media (max-width: 1080px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-3 .u-sheet-1 {
     min-height: 343px;
   }
@@ -211,6 +253,13 @@
 }
 
 @media (max-width: 991px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-3 .u-sheet-1 {
     min-height: 301px;
   }
@@ -250,6 +299,13 @@
 }
 
 @media (max-width: 767px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-3 .u-sheet-1 {
     min-height: 343px;
   }
@@ -294,6 +350,13 @@
 }
 
 @media (max-width: 575px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-3 .u-group-1 {
     margin-right: -112px;
   }
@@ -356,6 +419,13 @@
 }
 
 @media (max-width: 1080px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-4 .u-sheet-1 {
     min-height: 130px;
   }
@@ -382,6 +452,13 @@
 }
 
 @media (max-width: 991px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-4 .u-sheet-1 {
     min-height: 147px;
   }
@@ -422,6 +499,13 @@
 }
 
 @media (max-width: 767px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-4 .u-group-1 {
     margin-left: 23px;
   }
@@ -447,6 +531,13 @@
 }
 
 @media (max-width: 575px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-4 .u-group-1 {
     width: 95px;
     margin-left: 31px;
@@ -537,6 +628,13 @@
 }
 
 @media (max-width: 1080px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-5 .u-social-icons-2 {
     margin-bottom: 0;
   }
@@ -549,6 +647,13 @@
 }
 
 @media (max-width: 991px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-5 .u-social-icons-2 {
     height: 78px;
     width: 254px;
@@ -582,6 +687,13 @@
 }
 
 @media (max-width: 767px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-5 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
@@ -599,6 +711,13 @@
 }
 
 @media (max-width: 575px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-5 .u-group-1 {
     width: 340px;
     margin-left: 0;
@@ -644,6 +763,13 @@
 }
 
 @media (max-width: 1080px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-6 .u-sheet-1 {
     min-height: 724px;
   }
@@ -663,6 +789,13 @@
 }
 
 @media (max-width: 991px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-6 .u-sheet-1 {
     min-height: 722px;
   }
@@ -677,6 +810,13 @@
 }
 
 @media (max-width: 767px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-6 .u-sheet-1 {
     min-height: 71px;
   }
@@ -702,6 +842,13 @@
 }
 
 @media (max-width: 575px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-6 .u-sheet-1 {
     min-height: 58px;
   }
@@ -764,6 +911,13 @@
 }
 
 @media (max-width: 1080px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-7 .u-group-1 {
     margin-top: -1034px;
     margin-left: 62px;
@@ -789,6 +943,13 @@
 }
 
 @media (max-width: 991px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-7 .u-group-1 {
     width: 211px;
     min-height: 45px;
@@ -809,6 +970,13 @@
 }
 
 @media (max-width: 767px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-7 .u-sheet-1 {
     min-height: 108px;
   }
@@ -825,6 +993,13 @@
 }
 
 @media (max-width: 575px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-7 .u-sheet-1 {
     min-height: 62px;
   }
@@ -900,6 +1075,13 @@
 }
 
 @media (max-width: 1080px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-8 .u-group-1 {
     height: auto;
   }
@@ -911,6 +1093,13 @@
 }
 
 @media (max-width: 991px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-8 .u-sheet-1 {
     min-height: 331px;
   }
@@ -922,6 +1111,13 @@
 }
 
 @media (max-width: 767px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-8 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
@@ -938,6 +1134,13 @@
 }
 
 @media (max-width: 575px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-8 .u-group-1 {
     width: 340px;
     margin-left: 0;
@@ -957,12 +1160,26 @@
 }
 
 @media (max-width: 1080px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-9 .u-text-1 {
     font-size: 3rem;
   }
 }
 
 @media (max-width: 767px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-9 .u-text-1 {
     --animation-custom_in-translate_x: -300px;
     --animation-custom_in-translate_y: 0px;
@@ -977,6 +1194,13 @@
 }
 
 @media (max-width: 575px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-9 .u-sheet-1 {
     min-height: 54px;
   }
@@ -1047,6 +1271,13 @@
 }
 
 @media (max-width: 1080px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-10 .u-group-1 {
     min-height: 222px;
     margin-top: 41px;
@@ -1071,6 +1302,13 @@
 }
 
 @media (max-width: 991px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-10 .u-group-1 {
     width: 307px;
     min-height: 160px;
@@ -1086,6 +1324,13 @@
 }
 
 @media (max-width: 767px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-10 .u-sheet-1 {
     min-height: 151px;
   }
@@ -1125,6 +1370,13 @@
 }
 
 @media (max-width: 575px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-10 .u-sheet-1 {
     min-height: 170px;
   }
@@ -1214,12 +1466,26 @@
 }
 
 @media (max-width: 1080px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-11 .u-text-6 {
     font-size: 1.25rem;
   }
 }
 
 @media (max-width: 991px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-11 .u-text-1 {
     font-size: 1.875rem;
   }
@@ -1240,6 +1506,13 @@
 }
 
 @media (max-width: 767px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-11 .u-sheet-1 {
     min-height: 59px;
   }
@@ -1270,6 +1543,13 @@
 }
 
 @media (max-width: 575px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-11 .u-sheet-1 {
     min-height: 64px;
   }
@@ -1368,6 +1648,13 @@
 }
 
 @media (max-width: 1080px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-12 .u-group-1 {
     margin-top: -95px;
     margin-left: 11px;
@@ -1380,6 +1667,13 @@
 }
 
 @media (max-width: 991px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-12 .u-group-1 {
     width: 395px;
     min-height: 660px;
@@ -1399,6 +1693,13 @@
 }
 
 @media (max-width: 767px) {
+html,body{
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
   .u-section-12 .u-social-icons-1 {
     margin-bottom: 0;
   }
@@ -1427,6 +1728,13 @@
 }
 
 @media (max-width: 575px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-12 .u-social-icons-1 {
     height: 38px;
     width: 135px;
@@ -1747,6 +2055,13 @@
 }
 
 @media (max-width: 1080px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-13 .u-group-1 {
     width: 429px;
     min-height: 67px;
@@ -1784,6 +2099,13 @@
 }
 
 @media (max-width: 991px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-13 .u-group-1 {
     min-height: 82px;
     margin-top: 39px;
@@ -1825,6 +2147,13 @@
 }
 
 @media (max-width: 767px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-13 .u-sheet-1 {
     min-height: 588px;
   }
@@ -1869,6 +2198,13 @@
 }
 
 @media (max-width: 575px) {
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
   .u-section-13 .u-sheet-1 {
     min-height: 365px;
   }
