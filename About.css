@@ -15,7 +15,7 @@
   margin: 15px 78px 40px;
 }
 
-@media (max-width: 1199px) {
+@media (max-width: 1080) {
   .u-section-1 .u-text-1 {
     margin-left: 0;
     margin-right: 0;
@@ -43,7 +43,7 @@
   text-shadow: 0px 0px 0px rgba(0,0,0,0);
 }
 
-@media (max-width: 1199px) {
+@media (max-width: 1080) {
   .u-section-2 .u-text-1 {
     --animation-custom_in-translate_x: -300px;
     --animation-custom_in-translate_y: 0px;
@@ -154,7 +154,7 @@
   margin: 0 10px;
 }
 
-@media (max-width: 1199px) {
+@media (max-width: 1080) {
   .u-section-3 .u-sheet-1 {
     min-height: 343px;
   }
@@ -355,7 +355,7 @@
   margin: 0 auto;
 }
 
-@media (max-width: 1199px) {
+@media (max-width: 1080) {
   .u-section-4 .u-sheet-1 {
     min-height: 130px;
   }
@@ -536,7 +536,7 @@
   margin: -588px -549px 60px 560px;
 }
 
-@media (max-width: 1199px) {
+@media (max-width: 1080) {
   .u-section-5 .u-social-icons-2 {
     margin-bottom: 0;
   }
@@ -643,7 +643,7 @@
   margin: 0;
 }
 
-@media (max-width: 1199px) {
+@media (max-width: 1080) {
   .u-section-6 .u-sheet-1 {
     min-height: 724px;
   }
@@ -763,7 +763,7 @@
   margin: 0 -12px;
 }
 
-@media (max-width: 1199px) {
+@media (max-width: 1080) {
   .u-section-7 .u-group-1 {
     margin-top: -1034px;
     margin-left: 62px;
@@ -899,7 +899,7 @@
   margin: 83px 115px 60px 655px;
 }
 
-@media (max-width: 1199px) {
+@media (max-width: 1080) {
   .u-section-8 .u-group-1 {
     height: auto;
   }
@@ -956,7 +956,7 @@
   text-shadow: 0px 0px 0px rgba(0,0,0,0);
 }
 
-@media (max-width: 1199px) {
+@media (max-width: 1080) {
   .u-section-9 .u-text-1 {
     font-size: 3rem;
   }
@@ -1046,7 +1046,7 @@
   margin: 0 auto 0 48px;
 }
 
-@media (max-width: 1199px) {
+@media (max-width: 1080) {
   .u-section-10 .u-group-1 {
     min-height: 222px;
     margin-top: 41px;
@@ -1213,7 +1213,7 @@
   margin: -32px -136px 11px 170px;
 }
 
-@media (max-width: 1199px) {
+@media (max-width: 1080) {
   .u-section-11 .u-text-6 {
     font-size: 1.25rem;
   }
@@ -1367,7 +1367,7 @@
   margin: -361px -296px 0 296px;
 }
 
-@media (max-width: 1199px) {
+@media (max-width: 1080) {
   .u-section-12 .u-group-1 {
     margin-top: -95px;
     margin-left: 11px;
@@ -1746,7 +1746,7 @@
   margin: -47px -37px 60px 37px;
 }
 
-@media (max-width: 1199px) {
+@media (max-width: 1080) {
   .u-section-13 .u-group-1 {
     width: 429px;
     min-height: 67px;
